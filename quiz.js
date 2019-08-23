@@ -10,8 +10,6 @@
             <p1 id = "Cali"></p1>
             <script>
                     <p1 id="Cal" style="color: red" ></p1>
-
-                    
                     
             
             
@@ -24,4 +22,3 @@
             
         </body>
 </html>
-
